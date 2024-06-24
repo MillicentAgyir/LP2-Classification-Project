@@ -1,2 +1,2 @@
 # LP2-Classification-Project
-Classify a bank transaction into Fraud or Non - Fraud category or an email into Spam or Non - Spam.
+In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
