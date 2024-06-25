@@ -1,2 +1,6 @@
 # LP2-Classification-Project
-In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 87e06d44f47dbb79d7008485fb6711d1ef044c5f
+
